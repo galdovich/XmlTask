@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://www.example.com/students"
+          xsi:schemaLocation="http://www.example.com/students students.xsd">
+
+    <student login="XroNik">
+        <name>Alex Galdovich</name>
+        <telephone>375424231242</telephone>
+        <address>
+            <country>Belarus</country>
+            <city>Minsk</city>
+            <street>Denisova 25</street>
+        </address>
+    </student>
+    <student login="Holo" faculty="geo">
+        <name>Igor Holovich</name>
+        <telephone>375424236666</telephone>
+        <address>
+            <country>Poland</country>
+            <city>Warszawa</city>
+            <street>Kolejova 9</street>
+        </address>
+    </student>
+    <student login="Borovik" faculty="ksis">
+        <name>Nikita Borovikov</name>
+        <telephone>375424411242</telephone>
+        <address>
+            <country>Russia</country>
+            <city>Moskow</city>
+            <street>Triada 12</street>
+        </address>
+    </student>
+    <student login="Gibka" faculty="mmf">
+        <name>Dima Gibkin</name>
+        <telephone>375424232342</telephone>
+        <address>
+            <country>Belarus</country>
+            <city>Minsk</city>
+            <street>Kololo 32</street>
+        </address>
+    </student>
+
+</students>
